@@ -2680,7 +2680,7 @@
           <children xmi:type="notation:BasicDecorationNode" xmi:id="_eTt4cak6Eeu00cINa2pkaw" type="Name"/>
           <children xmi:type="notation:BasicDecorationNode" xmi:id="_eTt4cqk6Eeu00cINa2pkaw" type="Parent"/>
           <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_eTt4c6k6Eeu00cINa2pkaw" type="PackageContents" collapsed="true" canonical="false"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_eTsqUak6Eeu00cINa2pkaw" x="9504" y="7656"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_eTsqUak6Eeu00cINa2pkaw" x="8844" y="7656"/>
         </children>
         <children xmi:type="umlnotation:UMLShape" xmi:id="_l8V2sKk6Eeu00cINa2pkaw" element="_l8UokKk6Eeu00cINa2pkaw" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
           <children xmi:type="notation:DecorationNode" xmi:id="_l8WdwKk6Eeu00cINa2pkaw" type="ImageCompartment">
@@ -2700,7 +2700,7 @@
           <children xmi:type="notation:BasicDecorationNode" xmi:id="_n5lmg6k6Eeu00cINa2pkaw" type="Name"/>
           <children xmi:type="notation:BasicDecorationNode" xmi:id="_n5lmhKk6Eeu00cINa2pkaw" type="Parent"/>
           <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_n5lmhak6Eeu00cINa2pkaw" type="PackageContents" collapsed="true" canonical="false"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_n5k_cak6Eeu00cINa2pkaw" x="14124" y="3300"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_n5k_cak6Eeu00cINa2pkaw" x="13464" y="3036"/>
         </children>
         <children xmi:type="umlnotation:UMLShape" xmi:id="_o7NbkKk6Eeu00cINa2pkaw" element="_o7MNcKk6Eeu00cINa2pkaw" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
           <children xmi:type="notation:DecorationNode" xmi:id="_o7Nbkqk6Eeu00cINa2pkaw" type="ImageCompartment">
@@ -2739,7 +2739,7 @@
         </contents>
       </eAnnotations>
     </packagedElement>
-    <packagedElement xmi:type="uml:Package" xmi:id="_l8UokKk6Eeu00cINa2pkaw" name="Ventas de productos">
+    <packagedElement xmi:type="uml:Package" xmi:id="_l8UokKk6Eeu00cINa2pkaw" name="Ventas">
       <eAnnotations xmi:id="_l8Uokak6Eeu00cINa2pkaw" source="uml2.diagrams" references="_l8Uokqk6Eeu00cINa2pkaw">
         <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_l8Uokqk6Eeu00cINa2pkaw" type="Freeform" name="Principal">
           <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_xmwPYKk6Eeu00cINa2pkaw" element="_xmvoUKk6Eeu00cINa2pkaw" fontName="Segoe UI" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
@@ -3540,7 +3540,7 @@
       <packagedElement xmi:type="uml:UseCase" xmi:id="_Q8xQAKk7Eeu00cINa2pkaw" name="Registrar Reclamo"/>
       <packagedElement xmi:type="uml:UseCase" xmi:id="_SnIgEKk7Eeu00cINa2pkaw" name="Registrar sugerencia"/>
     </packagedElement>
-    <packagedElement xmi:type="uml:Package" xmi:id="_n5jxUKk6Eeu00cINa2pkaw" name="compra de productos">
+    <packagedElement xmi:type="uml:Package" xmi:id="_n5jxUKk6Eeu00cINa2pkaw" name="compra">
       <eAnnotations xmi:id="_n5kYYKk6Eeu00cINa2pkaw" source="uml2.diagrams" references="_n5kYYak6Eeu00cINa2pkaw">
         <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_n5kYYak6Eeu00cINa2pkaw" type="Freeform" name="Principal">
           <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_iQUwcKrFEeupmtblOyWQxA" element="_iQUJYKrFEeupmtblOyWQxA" fontName="Segoe UI" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
@@ -4362,7 +4362,7 @@
       </packagedElement>
       <packagedElement xmi:type="uml:UseCase" xmi:id="_IYaBIKrOEeupmtblOyWQxA" name="Buscar Producto"/>
     </packagedElement>
-    <packagedElement xmi:type="uml:Package" xmi:id="_o7MNcKk6Eeu00cINa2pkaw" name="Recepcion de productos">
+    <packagedElement xmi:type="uml:Package" xmi:id="_o7MNcKk6Eeu00cINa2pkaw" name="Recepcion Productos">
       <eAnnotations xmi:id="_o7MNcak6Eeu00cINa2pkaw" source="uml2.diagrams" references="_o7MNcqk6Eeu00cINa2pkaw">
         <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_o7MNcqk6Eeu00cINa2pkaw" type="Freeform" name="Principal">
           <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_nwF-EKrAEeupmtblOyWQxA" element="_nuVqkKrAEeupmtblOyWQxA" fontName="Segoe UI" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
@@ -5063,7 +5063,7 @@
         <include xmi:id="_3_DQQKrREeupmtblOyWQxA" addition="_IYaBIKrOEeupmtblOyWQxA"/>
       </packagedElement>
     </packagedElement>
-    <packagedElement xmi:type="uml:Package" xmi:id="_qGjNUKk6Eeu00cINa2pkaw" name="Devolucion de productos">
+    <packagedElement xmi:type="uml:Package" xmi:id="_qGjNUKk6Eeu00cINa2pkaw" name="Devolucion">
       <eAnnotations xmi:id="_qGj0YKk6Eeu00cINa2pkaw" source="uml2.diagrams" references="_qGj0Yak6Eeu00cINa2pkaw">
         <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_qGj0Yak6Eeu00cINa2pkaw" type="Freeform" name="Principal">
           <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_B7vyoKrBEeupmtblOyWQxA" element="_B7ukgKrBEeupmtblOyWQxA" fontName="Segoe UI" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
