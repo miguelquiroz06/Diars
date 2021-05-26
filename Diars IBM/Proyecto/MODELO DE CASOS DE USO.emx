@@ -417,7 +417,7 @@
         <children xmi:type="notation:BasicDecorationNode" xmi:id="_lCtFk6rSEeupmtblOyWQxA" type="Name"/>
         <children xmi:type="notation:BasicDecorationNode" xmi:id="_lCtFlKrSEeupmtblOyWQxA" type="Parent"/>
         <children xmi:type="notation:ListCompartment" xmi:id="_lCtFlarSEeupmtblOyWQxA" visible="false" type="Extension_Points"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_lCsegarSEeupmtblOyWQxA" x="24024" y="14520"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_lCsegarSEeupmtblOyWQxA" x="24156" y="13728"/>
       </children>
       <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_okYckKrSEeupmtblOyWQxA" element="_ztc2IKk6Eeu00cINa2pkaw" fontName="Segoe UI" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
         <children xmi:type="notation:DecorationNode" xmi:id="_okYckqrSEeupmtblOyWQxA" type="ImageCompartment">
