@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><?pde version="3.8"?><target name="Apéndice de WebSphere Application Server v7.0" sequenceNumber="19">
+<locations>
+<location path="C:/Program Files/IBM/SDP/runtimes/base_v7_stub/feature_packs/aries" type="Directory"/>
+<location path="C:/Program Files/IBM/SDP/runtimes/base_v7_stub/feature_packs/jpa" type="Directory"/>
+<location path="C:/Program Files/IBM/SDP/runtimes/base_v7_stub/feature_packs/cea" type="Directory"/>
+<location path="C:/Users/SiumaraCR/Downloads/PROYECTO_DIARS/WS_molde/.metadata/.plugins/com.ibm.etools.aries.core/system/" type="Directory"/>
+</locations>
+</target>

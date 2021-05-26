@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="OPEN_TYPE_DIALOG_SETTINGS">
+		<item value="50" key="SEARCH_RESULTS_SIZE"/>
+		<item value="true" key="RESTRICT_SEARCH_RESULTS"/>
+		<item value="50" key="&amp;Limitar número de coincidencias a:"/>
+		<item value="true" key="Limitar resultados de la búsqueda"/>
+		<section name="DialogBoundsSettings">
+			<item value="430" key="DIALOG_WIDTH"/>
+			<item value="8" key="DIALOG_Y_ORIGIN"/>
+			<item value="593" key="DIALOG_X_ORIGIN"/>
+			<item value="690" key="DIALOG_HEIGHT"/>
+			<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		</section>
+	</section>
+</section>
