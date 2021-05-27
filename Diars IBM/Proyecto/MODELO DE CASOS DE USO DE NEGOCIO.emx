@@ -596,7 +596,7 @@
             <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_-f9NQJ1DEeupC7NvO7lzJQ" visible="false" type="StructureCompartment"/>
             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-f7_IZ1DEeupC7NvO7lzJQ" x="22440" y="10428"/>
           </children>
-          <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_M3FD0J1EEeupC7NvO7lzJQ" element="_CxTrAJSvEeurU9Xj04xqOA" fontName="Segoe UI" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+          <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_M3FD0J1EEeupC7NvO7lzJQ" element="_CxTrAJSvEeurU9Xj04xqOA" fontName="Segoe UI" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Image" useClassifierShape="true">
             <children xmi:type="notation:DecorationNode" xmi:id="_M3Fq4J1EEeupC7NvO7lzJQ" type="ImageCompartment">
               <layoutConstraint xmi:type="notation:Size" xmi:id="_M3Fq4Z1EEeupC7NvO7lzJQ" width="2216" height="1322"/>
             </children>
@@ -606,7 +606,7 @@
             <children xmi:type="notation:ListCompartment" xmi:id="_M3GR8J1EEeupC7NvO7lzJQ" visible="false" type="Extension_Points"/>
             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_M3FD0Z1EEeupC7NvO7lzJQ" x="15774" y="15487"/>
           </children>
-          <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_PsLosJ1EEeupC7NvO7lzJQ" element="_3ekLcJSuEeurU9Xj04xqOA" fontName="Segoe UI" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+          <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_PsLosJ1EEeupC7NvO7lzJQ" element="_3ekLcJSuEeurU9Xj04xqOA" fontName="Segoe UI" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Image" useClassifierShape="true">
             <children xmi:type="notation:DecorationNode" xmi:id="_PsLosp1EEeupC7NvO7lzJQ" type="ImageCompartment">
               <layoutConstraint xmi:type="notation:Size" xmi:id="_PsLos51EEeupC7NvO7lzJQ" width="2216" height="1322"/>
             </children>
@@ -616,7 +616,7 @@
             <children xmi:type="notation:ListCompartment" xmi:id="_PsMPwp1EEeupC7NvO7lzJQ" visible="false" type="Extension_Points"/>
             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_PsLosZ1EEeupC7NvO7lzJQ" x="24552" y="15576"/>
           </children>
-          <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_XsWkQJ1EEeupC7NvO7lzJQ" element="_-RkwUJSuEeurU9Xj04xqOA" fontName="Segoe UI" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+          <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_XsWkQJ1EEeupC7NvO7lzJQ" element="_-RkwUJSuEeurU9Xj04xqOA" fontName="Segoe UI" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Image" useClassifierShape="true">
             <children xmi:type="notation:DecorationNode" xmi:id="_XsXLUZ1EEeupC7NvO7lzJQ" type="ImageCompartment">
               <layoutConstraint xmi:type="notation:Size" xmi:id="_XsXLUp1EEeupC7NvO7lzJQ" width="2216" height="1322"/>
             </children>
@@ -626,7 +626,7 @@
             <children xmi:type="notation:ListCompartment" xmi:id="_XsXLVp1EEeupC7NvO7lzJQ" visible="false" type="Extension_Points"/>
             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XsXLUJ1EEeupC7NvO7lzJQ" x="31530" y="15312"/>
           </children>
-          <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_YzJNMJ1EEeupC7NvO7lzJQ" element="_7zb58JSuEeurU9Xj04xqOA" fontName="Segoe UI" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+          <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_YzJNMJ1EEeupC7NvO7lzJQ" element="_7zb58JSuEeurU9Xj04xqOA" fontName="Segoe UI" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Image" useClassifierShape="true">
             <children xmi:type="notation:DecorationNode" xmi:id="_YzJNMp1EEeupC7NvO7lzJQ" type="ImageCompartment">
               <layoutConstraint xmi:type="notation:Size" xmi:id="_YzJNM51EEeupC7NvO7lzJQ" width="2216" height="1322"/>
             </children>
